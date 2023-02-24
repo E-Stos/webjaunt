@@ -6,3 +6,16 @@ body {
 p {
     text-align:right;
 }
+
+h4 {
+    font-size:large;
+    font-family: 'Zeyada', cursive;
+    text-decoration:line-through;
+    color:orange;
+}
+
+h2 {
+    font-family: 'Tilt Prism', cursive;
+    color:yellow;
+    text-align:center;
+}
