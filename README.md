@@ -1,3 +1,3 @@
 # webjaunt
 
-This is my webpage. Enjoy!
+This is my personal webpage. Enjoy!
